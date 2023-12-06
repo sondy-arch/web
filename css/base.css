@@ -651,7 +651,7 @@ main {
 	}
 	.slide__bg,
 	.slide__img {
-		background-position: 50% 0%;
+		/* background-position: 50% 0%; */
 	}
 	.boxnav {
 		left: auto;
